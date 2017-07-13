@@ -17,8 +17,9 @@ After this lesson, you'll be able to
 @[gslides](12MfGuRbSPV-Hgtpn1Xmd8GGvwgwbwVSp8Gx1NVKH1Mk)
 
 ## Instructors code alongs
+[Text Processing](https://github.com/commit-live-students/text-processing/blob/master/text_processing_lecture.ipynb)
 
-
-## Assignments 
+## Assignments
+You can find assignments inside [commit.live](https://app.commit.live)
 
 ## Resources & Post Reads
